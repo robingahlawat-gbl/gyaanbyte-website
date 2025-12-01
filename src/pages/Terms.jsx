@@ -204,7 +204,11 @@ const Terms = () => {
             <div className="bg-gray-50 rounded-xl p-6 border border-gray-200">
               <p className="text-gray-900 font-semibold mb-2">GyaanByte Labs Pvt Ltd</p>
               <p className="text-gray-700">Email: <a href="mailto:info@gyaanbytelabs.com" className="text-gb-blue-600 hover:underline">info@gyaanbytelabs.com</a></p>
+<<<<<<< HEAD
               <p className="text-gray-700">Phone: <a href="tel:+918950709015" className="text-gb-blue-600 hover:underline">+91 8950 709 015</a></p>
+=======
+              <p className="text-gray-700">Phone: <a href="tel:+918684861010" className="text-gb-blue-600 hover:underline">+91 8950 709 015</a></p>
+>>>>>>> f8f4c69 (Initial commit)
               <p className="text-gray-700">Address: 1st Floor, Raj Singh Complex, Near Sheela Bypass Flyover, Rohtak 124001, Haryana, India</p>
               <p className="text-gray-700 mt-2">Company Registration: Startup India Certificate DIPP228466</p>
             </div>

@@ -200,7 +200,11 @@ const Contact = () => {
       ),
       title: 'Call Us',
       primary: '+91 8950 709 015',
+<<<<<<< HEAD
       primaryLink: 'tel:+918950709015',
+=======
+      primaryLink: 'tel:+918684861010',
+>>>>>>> f8f4c69 (Initial commit)
       secondary: 'Mon-Sat, 9AM-6PM IST',
       gradient: 'from-gb-blue-500 to-gb-blue-600'
     },

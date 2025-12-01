@@ -2,7 +2,11 @@
 export const CONTACT_INFO = {
   phone: {
     display: '+91 8950 709 015',
+<<<<<<< HEAD
     link: 'tel:+918950709015',
+=======
+    link: 'tel:+918684861010',
+>>>>>>> f8f4c69 (Initial commit)
   },
   email: {
     info: 'info@gyaanbytelabs.com',
